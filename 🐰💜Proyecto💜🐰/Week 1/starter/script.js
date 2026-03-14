@@ -1,28 +1,3 @@
-/*
- * script.js — Ficha de Presentación de Dominio
- *
- * Semana 1: ¿Qué es programar? Mi primer JavaScript
- * Bootcamp JavaScript ES2023
- *
- * ============================================
- * POLÍTICA ANTICOPIA
- * ============================================
- * Cada aprendiz trabaja sobre un DOMINIO ÚNICO asignado por el instructor.
- * Adapta TODOS los TODOs a tu dominio específico.
- * Copiar la implementación de otro compañero resulta en calificación de cero.
- *
- * INSTRUCCIONES:
- * 1. Confirma con tu instructor cuál es tu dominio asignado
- * 2. Reemplaza cada [PLACEHOLDER] con la información de TU dominio
- * 3. Completa cada TODO adaptado a tu contexto
- * 4. Ejecuta con: node starter/script.js
- *
- * NOTA SOBRE LOS EJEMPLOS:
- * Los comentarios de ayuda usan "Planetario" como dominio de ejemplo
- * porque NO es un dominio asignable. No copies esos valores —
- * crea los tuyos basados en tu dominio asignado.
- */
-
 // ============================================
 // ENCABEZADO — identifica el dominio y la entidad
 // ============================================

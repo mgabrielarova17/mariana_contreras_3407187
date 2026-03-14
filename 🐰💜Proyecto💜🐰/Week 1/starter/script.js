@@ -74,11 +74,3 @@ console.log('');
 // ============================================
 // CIERRE
 // ============================================
-
-// Mensaje final del script
-console.log('=========================================');
-
-// Mensaje de despedida relacionado con logística y transporte
-console.log('  ¡Entrega rápida y segura con Node.js!');
-
-console.log('=========================================');
